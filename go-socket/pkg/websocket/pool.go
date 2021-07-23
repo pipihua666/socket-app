@@ -1,7 +1,7 @@
 /*
  * @Author: pipihua
  * @Date: 2021-07-22 15:01:18
- * @LastEditTime: 2021-07-22 17:45:33
+ * @LastEditTime: 2021-07-22 22:28:46
  * @LastEditors: pipihua
  * @Description: 连接池
  * @FilePath: /socket-app/go-socket/pkg/websocket/pool.go
